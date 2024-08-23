@@ -14,7 +14,7 @@ Este proyecto implementa la parte del servidor para un sistema de autenticación
 ## Tecnologías Utilizadas
 
 - **Java 21**
-- **Spring Boot 3.x**
+- **Spring Boot 3.3.3**
 - **Spring Security:** Para la gestión de la autenticación y autorización.
 - **JWT:** Para la creación y validación de tokens de autenticación.
 - **JPA/Hibernate:** Para la interacción con la base de datos.
